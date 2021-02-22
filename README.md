@@ -1,1 +1,1 @@
-# get-kubectl.v9andup-versions
+# kubectl.v9andup
